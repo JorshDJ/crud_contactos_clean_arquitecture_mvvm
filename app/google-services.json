@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859132251417",
+    "project_id": "examenfinal-75f9d",
+    "storage_bucket": "examenfinal-75f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859132251417:android:ea137251dcbef97bc74988",
+        "android_client_info": {
+          "package_name": "com.miko.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859132251417-993j5r27f6hi6mthapffr3bj4uj1p5er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhtXFE79Za9nsAIXk3UWFTyP0goX8ZLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859132251417-993j5r27f6hi6mthapffr3bj4uj1p5er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
